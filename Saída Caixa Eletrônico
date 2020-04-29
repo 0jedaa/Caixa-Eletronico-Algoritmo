@@ -1,0 +1,132 @@
+ |     ________________________________________
+ |      BEM-VINDO AO BANCO CENTRAL DA FACENS       
+ |
+ |  LOGIN   
+ | CPF: 123
+ | CPF INVALIDO
+ | CPF: 01
+ | CPF INVALIDO
+ | CPF: 13245678900
+ | CPF INVALIDO
+ | CPF: 12345678900
+ | SENHA: 01
+ |     ____________________________________
+ | 
+ |                SENHA INVALIDA.               
+ | 
+ | Digite A Senha Novamente: 01020304
+ |     ____________________________________
+ |                BEM-VINDO AO MENU         
+ | 
+ |      INSTRUÇÓES DO MENU:
+ | 
+ | -Aperte 1 Para Consultar Saldo Atual.
+ | 
+ | -Aperte 2 Para Fazer um Depósito.
+ | 
+ | -Aperte 3 Para Fazer um Saque.
+ | 
+ | -Aperte 4 Para Fazer uma Transferencia.
+ | 
+ | -Aperte 5 Para Consultar Pagamentos.
+ | 
+ | -Aperte 6 Para Consultar Extrato.
+ | 
+ | -Aperte 0 Para Sair Do Menu.
+ | 
+ |     ____________________________________
+ | 
+ | Digite O Numero Desejado: 1
+ |      ____________________________________
+ |                  SALDO ATUAL           
+ | Saldo: 1000
+ |     ____________________________________
+ | 
+ | Digite O Numero Desejado: 2
+ |     ____________________________________
+ |                    DEPÓSITO               
+ | 
+ | Insira o Valor Do Seu Depósito: 100
+ | 
+ |                Saldo Atualizado          
+ |      ____________________________________
+ | 
+ | Digite O Numero Desejado: 3
+ |      ____________________________________
+ |                    SAQUE                
+ |
+ | Insira o Valor Do Seu Saque: 2000
+ | 
+ | Saldo Indisponivel.
+ | 
+ |              Saque Não Aprovado       
+ |      ____________________________________
+ | Digite O Numero Desejado: 3
+ |      ____________________________________
+ |                    SAQUE                
+ |
+ | Insira o Valor Do Seu Saque: 100
+ | 
+ |                Saque Aprovado         
+ |      ____________________________________
+ | 
+ | Digite O Numero Desejado: 4
+ |         ____________________________________
+ |                     TRANSFERENCIA           
+ | 
+ | Valor Da Sua Transferencia: 2000
+ | 
+ | Saldo Indisponivel.
+ | 
+ |         Transferência Não Aprovada    
+ |     ____________________________________
+ | Digite O Numero Desejado: 4
+ |         ____________________________________
+ |                     TRANSFERENCIA           
+ | 
+ | Valor Da Sua Transferencia: 100
+ | 
+ | Conta De Transferência: 01202
+ | 
+ | Agência: 010407
+ | 
+ | Banco: Bradesco
+ | 
+ |                  Transferência Aprovada       
+ |           ____________________________________
+ | 
+ | Digite O Numero Desejado: 5
+ |           ____________________________________
+ |                         PAGAMENTOS            
+ | 
+ | Valor de Compras Feitas No Débito: 100
+ | Valor De Compras Feitas No Crédito: 1000
+ | Parcelas Feita Por Mês Em Crédito: 10
+ |           ____________________________________
+ | Digite O Numero Desejado: 6
+ |           ____________________________________
+ |                           EXTRATOS            
+ | 
+ | SALDO INICIAL DE R$ 1000
+ | 
+ | DEPÓSITO DE R$ 100 - SALDO RESTANTE DE R$ 1100
+ | 
+ | SAQUE DE R$ 100 - SALDO RESTANTE DE R$ 1000
+ | 
+ | TRANSFERÊNCIA DE R$ 100 - SALDO RESTANTE DE R$ 900
+ | 
+ | PAGAMENTOS EM DÉBITO DE R$ 100 - SALDO RESTANTE DE R$ 800
+ | 
+ | PAGAMENTOS EM CRÉDITO DE R$ 1000 FEITO EM 10x DE R$ 100
+ |          SALDO RESTANTE DE R$700
+ |          ____________________________________
+ | 
+ | Digite O Numero Desejado: 7
+ | 
+ |           NUMERO DIGITADO É INVALIDO     
+ |      ____________________________________
+ | 
+ | Digite O Numero Desejado: 0
+ | 
+ |                  MENU FECHADO             
+ |      ____________________________________
